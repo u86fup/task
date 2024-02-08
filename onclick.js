@@ -31,20 +31,3 @@ function changeImage(a){
 	document.getElementById("search").src = "img/search_white.png";
 }
 
-function openNav(){
-	document.getElementById("mySidenav").style.width="250px";
-	document.getElementById("push").style.marginLeft="250px";
-}
-
-function closeNav(){
-	document.getElementById("mySidenav").style.width="0";
-	document.getElementById("push").style.marginLeft="0";
-}
-
-
-
-
-
-
-
-
